@@ -73,7 +73,7 @@ export function Dashboard() {
               {ResumenResponse?.strongestHero.alias ?? ""}
             </div>
             <p className="text-xs text-muted-foreground">
-              Fortaleza: {ResumenResponse?.strongestHero.strength ?? ""}
+              fuerza: {ResumenResponse?.strongestHero.strength ?? ""}
             </p>
           </>
         }
