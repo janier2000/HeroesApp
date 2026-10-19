@@ -1,4 +1,4 @@
-import { createBrowserRouter, createHashRouter, Navigate } from "react-router";
+import { createHashRouter, Navigate } from "react-router";
 import { lazy } from "react";
 import { HeroePage } from "@/heroes/pages/heroe/HeroePage";
 import { HeroeLayout } from "@/heroes/layouts/HeroeLayout";
